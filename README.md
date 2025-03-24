@@ -16,7 +16,7 @@
 ## Preview
 Below is a screenshot of the application:
 
-![Calculator Screenshot](D:\AD\calculator\demo_image.jpg.png "Lahari Calculator Interface")
+![Calculator Screenshot](demo_image.jpg.png "Lahari Calculator Interface")
 
 ## Technologies Used
 - **Python**: Core programming language.
